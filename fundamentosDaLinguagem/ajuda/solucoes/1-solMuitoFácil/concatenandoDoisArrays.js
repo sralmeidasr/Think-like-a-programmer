@@ -3,7 +3,7 @@
 Developer: Sr&Almeida | GitHub: https://github.com/sralmeidasr | e-mail: alan@sralmeida.com.br | Slack:
 ----------------------------------------------------------------------------------------------------------------------------*/
 
-const concatenarArrays = function(array1, array2) {
+const concatenaArrays = function(array1, array2) {
     return array1.concat(array2)
 }
 

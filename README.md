@@ -1,1 +1,1 @@
-Séloko cachuera! Mas que arquitetura robusta
+Guia de bolso do Desenvolvedor

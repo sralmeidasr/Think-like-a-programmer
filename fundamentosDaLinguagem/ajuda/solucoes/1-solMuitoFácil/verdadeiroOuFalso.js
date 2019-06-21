@@ -3,7 +3,7 @@
 Developer: Sr&Almeida | GitHub: https://github.com/sralmeidasr | e-mail: alan@sralmeida.com.br | Slack:
 ----------------------------------------------------------------------------------------------------------------------------*/
 
-const verdadeiroOuFalso = (dadosVF) => dadosVF ? 1 : 0
+const verdadeiroOuFalso = (dadosVouF) => dadosVouF ? 1 : 0
 
 
 /* Nessa função, foi usado um operador ternário, sendo que antes do '?' a variável é verificada, caso a variável seja 

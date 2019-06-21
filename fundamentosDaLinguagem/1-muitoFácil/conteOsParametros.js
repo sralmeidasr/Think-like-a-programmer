@@ -15,7 +15,7 @@ do seu código, porque você pode ver as muitas maneiras diferentes que um únic
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 ---------------------------------------------- Escreva seu código abaixo --------------------------------------------------*/
 function contandoParametros() { 
-    
+    return arguments.length
 }
 
 
@@ -33,12 +33,13 @@ outros programadores resolveram esse desafio no arquivo 'Soluções'.
 4. Nem só de código vive o homem, visite 'Nem só CODE' um guia completo, cheio de artigos sobre todas as coisas relacionadas 
 à programação, para você se tornar um verdadeiro mestre.
 
-* Recursos => [desafiosJS/fundamentosDaLinguagem/ajuda/recursos/1-muitoFácil/conteOsParametros.md]
-* Soluções => {desafiosJS/fundamentosDaLinguagem/ajuda/solucoes/1-muitoFácil/conteOsParametros.js}
-* Nem só CODE => (desafiosJS/nemSóCODE)
+* Recursos => [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/conteOsParametros.md]
+* Soluções => {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/conteOsParametros.js}
+* Nem só CODE => (nemSóCODE)
 
 ******************************************************************************************************************************
 *******ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam a função 'saudacao'.**********
 ******************************************************************************************************************************/
 module.exports = contandoParametros
-const callcontandoParametros = require('../interoperabilidade/exportMuitoFácil')
+const callConteOsParametros = require('../importExport/1-exportMuitoFácil/callConteOsParametros')
+console.log(Object.values(callConteOsParametros))

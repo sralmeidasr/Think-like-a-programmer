@@ -12,7 +12,7 @@ poderá visualizar as soluções de todos os outros programadores. Esta é uma �
 do seu código, porque você pode ver as muitas maneiras diferentes que um único desafio pode ser resolvido.
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 ---------------------------------------------- Escreva seu código abaixo ---------------------------------------------------*/
-function concatenarArrays(array1, array2) {
+function concatenaArrays(array1, array2) {
     
 }
 
@@ -33,12 +33,13 @@ outros programadores resolveram esse desafio no arquivo 'Soluções'.
 4. Nem só de código vive o homem, visite 'Nem só CODE' um guia completo, cheio de artigos sobre todas as coisas relacionadas 
 à programação, para você se tornar um verdadeiro mestre.
 
-* Recursos => [desafiosJS/fundamentosDaLinguagem/ajuda/recursos/1-muitoFácil/concatenandoDoisArrays.md]
-* Soluções => {desafiosJS/fundamentosDaLinguagem/ajuda/solucoes/1-muitoFácil/concatenandoDoisArrays.js}
-* Nem só CODE => (desafiosJS/nemSóCODE)
+* Recursos => [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/concatenandoDoisArrays.md]
+* Soluções => {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/concatenandoDoisArrays.js}
+* Nem só CODE => (nemSóCODE)
 
 ******************************************************************************************************************************
 *******ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam a função 'saudacao'.**********
 ******************************************************************************************************************************/
-module.exports = concatenarArrays
-const callconcatenarArrays = require('../interoperabilidade/exportMuitoFácil')
+module.exports = concatenaArrays
+const callConcatenandoDoisArrays = require('../importExport/1-exportMuitoFácil/callConcatenandoDoisArrays')
+console.log(Object.values(callConcatenandoDoisArrays))

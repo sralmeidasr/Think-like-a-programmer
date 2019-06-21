@@ -13,8 +13,8 @@ poderá visualizar as soluções de todos os outros programadores. Esta é uma �
 do seu código, porque você pode ver as muitas maneiras diferentes que um único desafio pode ser resolvido.
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 ---------------------------------------------- Escreva seu código abaixo ---------------------------------------------------*/
-
 const saudacao = nome => 
+
 
 
 
@@ -34,12 +34,13 @@ outros programadores resolveram esse desafio no arquivo 'Soluções'.
 5. Nem só de código vive o homem, visite 'Nem só CODE' um guia completo, cheio de artigos sobre todas as coisas relacionadas 
 à programação, para você se tornar um verdadeiro mestre.
 
-* Recursos => [desafiosJS/fundamentosDaLinguagem/ajuda/recursos/1-muitoFácil/saudacoes.md]
-* Soluções => {desafiosJS/fundamentosDaLinguagem/ajuda/solucoes/1-muitoFácil/saudacoes.JS}
-* Nem só CODE => (desafiosJS/nemSóCODE)
+* Recursos => [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/saudacoes.md]
+* Soluções => {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/saudacoes.JS}
+* Nem só CODE => (nemSóCODE)
 
 ******************************************************************************************************************************
 *******ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam a função 'saudacao'.**********
 ******************************************************************************************************************************/
 module.exports = saudacao   
-const callSaudacao = require('../interoperabilidade/exportMuitoFácil')
+const callSaudacao = require('../importExport/1-exportMuitoFácil/callSaudacao')
+console.log(Object.values(callSaudacao))

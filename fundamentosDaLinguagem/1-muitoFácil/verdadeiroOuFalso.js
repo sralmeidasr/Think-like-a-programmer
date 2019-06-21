@@ -16,7 +16,9 @@ do seu código, porque você pode ver as muitas maneiras diferentes que um únic
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 ---------------------------------------------- Escreva seu código abaixo ---------------------------------------------------*/
 
-const verdadeiroOuFalso = (dadosVF) => dadosVF ? 1 : 0
+const verdadeiroOuFalso = (dadosVouF) => 
+
+
 
 
 
@@ -34,12 +36,13 @@ outros programadores resolveram esse desafio no arquivo 'Soluções'.
 5. Nem só de código vive o homem, visite 'Nem só CODE' um guia completo, cheio de artigos sobre todas as coisas relacionadas 
 à programação, para você se tornar um verdadeiro mestre.
 
-* Recursos => [desafiosJS/fundamentosDaLinguagem/ajuda/recursos/1-muitoFácil/verdadeiroOuFalso.md]
-* Soluções => {desafiosJS/fundamentosDaLinguagem/ajuda/solucoes/1-muitoFácil/verdadeiroOuFalso.js}
+* Recursos => [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/verdadeiroOuFalso.md]
+* Soluções => {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/verdadeiroOuFalso.js}
 * Nem só CODE => (desafiosJS/nemSóCODE)
 
 ******************************************************************************************************************************
 *******ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam a função 'saudacao'.**********
 ******************************************************************************************************************************/
 module.exports = verdadeiroOuFalso
-const callverdadeiroOuFalso = require('../interoperabilidade/exportMuitoFácil')
+const callVerdadeiroOuFalso = require('../importExport/1-exportMuitoFácil/callVerdadeiroOuFalso')
+console.log(Object.values(callVerdadeiroOuFalso))
