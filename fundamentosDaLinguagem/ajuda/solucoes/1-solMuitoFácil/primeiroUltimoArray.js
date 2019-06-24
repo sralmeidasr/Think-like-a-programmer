@@ -3,6 +3,7 @@
 Developer: Sr&Almeida | GitHub: https://github.com/sralmeidasr | e-mail: alan@sralmeida.com.br | Slack: 
 ----------------------------------------------------------------------------------------------------------------------------*/
 
-const saudacao = nome => `Olá ${nome}!`
+const primeiroUltimoArray = (array) => [array.shift(), array.pop()]
 
 /****************************************************************************************************************************/
+

@@ -1,4 +1,4 @@
-/*                                             Think like a programmer
+/*                                               [ Mão no Código ]
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ 
 1 - converteParaInteiro(): Essa função deve converter uma string em um inteiro. 
 2 - converteParaString(): Essa função deve converter um inteiro em uma string.
@@ -32,16 +32,16 @@ function converteParaString(inteiro) {
 2. Não esqueça de instalar o plugin 'Code Runner' para o Nodejs executar seu código.
 3. Se você ficar preso em um desafio, encontre ajuda no arquivo 'Recursos'. Porém, se você está realmente preso, veja como 
 outros programadores resolveram esse desafio no arquivo 'Soluções'.
-4. Nem só de código vive o homem, visite 'Nem só CODE' um guia completo, cheio de artigos sobre todas as coisas relacionadas 
-à programação, para você se tornar um verdadeiro mestre.
+4. Nem só de código vive o homem, visite o 'Dicionário do Programador', um guia completo cheio de artigos sobre todas as coisas 
+relacionadas à programação, para você se tornar um verdadeiro mestre.
 
-* Recursos => [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/ stringEmInteiroViceVersa.md]
-* Soluções => {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/ stringEmInteiroViceVersa.js}
-* Nem só CODE => (nemSóCODE)
+* Recursos ➞ [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/ stringEmInteiroViceVersa.md]
+* Soluções ➞ {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/ stringEmInteiroViceVersa.js}
+* Dicionário do Programador ➞ (dicionárioDoProgramador)
 
 ******************************************************************************************************************************
-*******ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam a função 'saudacao'.**********
+********ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam as funções a cima.***********
 ******************************************************************************************************************************/
 module.exports = converteParaInteiro, converteParaString
 const  callStringEmInteiroViceVersa = require('../importExport/1-exportMuitoFácil/callStringEmInteiroViceVersa')
-console.log(Object.values(callStringEmInteiroViceVersa))
+callStringEmInteiroViceVersa.forEach(teste => console.log(teste))

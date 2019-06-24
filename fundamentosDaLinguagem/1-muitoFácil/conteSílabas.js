@@ -1,20 +1,21 @@
 /*                                               [ Mão no Código ]
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ 
- A função 'concatenarArrays' recebe por parâmetro dois arrays de inteiros, retorne a concatenação dos arrays.
+ A função 'conteSilabas' recebe strings por parâmetro, retorne o número de sílabas que uma palavra possui. Cada sílaba é 
+ separada por um traço -.
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 - Exemplos:
-1. concat([1, 3, 5], [2, 6, 8]) ➞ [1, 3, 5, 2, 6, 8]
-2. concat([7, 8], [10, 9, 1, 1, 2]) ➞ [7, 8, 10, 9, 1, 1, 2]
-3. concat([4, 5, 1], [3, 3, 3, 3, 3]) ➞ [4, 5, 1, 3, 3, 3, 3, 3]
+conteSilabas("buf-fet") ➞ 2
+conteSilabas("beau-ti-ful") ➞ 3
+conteSilabas("mon-u-men-tal") ➞ 4
+conteSilabas("on-o-mat-o-poe-ia") ➞ 6
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 Envie sua esposta depois de concluir um desafio com sucesso, seu código é adicionado ao banco de dados de soluções e você 
 poderá visualizar as soluções de todos os outros programadores. Esta é uma ótima maneira de melhorar rapidamente a qualidade 
 do seu código, porque você pode ver as muitas maneiras diferentes que um único desafio pode ser resolvido.
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 ---------------------------------------------- Escreva seu código abaixo ---------------------------------------------------*/
-function concatenaArrays(array1, array2) {
-    
-}
+const conteSilabas = (word) => 
+
 
 
 
@@ -36,14 +37,14 @@ relacionadas à programação, para você se tornar um verdadeiro mestre.
 resultados equivalentes a anos de estudos em escolas tradicionais de idiomas, capacitando você a estudar conteúdos 100% em inglês,
 o que consideramos o “ponto da virada” para se chegar à fluência no idioma.
 
-* Recursos ➞ [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/concatenandoDoisArrays.md]
-* Soluções ➞ {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/concatenandoDoisArrays.js}
+* Recursos ➞ [fundamentosDaLinguagem/ajuda/recursos/1-recMuitoFácil/conteSílabas.md]
+* Soluções ➞ {fundamentosDaLinguagem/ajuda/solucoes/1-solMuitoFácil/conteSílabas.js}
 * Dicionário do Programador ➞ (dicionárioDoProgramador)
 * Algoritimo da Fluência ➞ (algoritimoDaFluência)
 
 ******************************************************************************************************************************
-*****ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam a função 'concatenaArrays'.*****
+*******ATENÇÃO: Não apague ou faça qualquer alteração nos códigos abaixo, são eles que executam a função 'conteSilabas'.******
 ******************************************************************************************************************************/
-module.exports = concatenaArrays
-const callConcatenandoDoisArrays = require('../importExport/1-exportMuitoFácil/callConcatenandoDoisArrays')
-callConcatenandoDoisArrays.forEach(teste => console.log(teste))
+module.exports = conteSilabas
+const callConteSílabas = require('../importExport/1-exportMuitoFácil/callConteSílabas')
+callConteSílabas.forEach(teste => console.log(teste))
