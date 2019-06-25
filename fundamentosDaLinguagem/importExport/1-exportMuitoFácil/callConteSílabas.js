@@ -8,7 +8,9 @@ module.exports = [
     `'de-sen-vol-ve-dor' ➞ ${conteSilabas('de-sen-vol-ve-dor')}`,
     `'pas-tel' ➞ ${conteSilabas('pas-tel')}`,
     `'fei-jo-ada' ➞ ${conteSilabas('fei-jo-ada')}`,
-    `'de-ploy' ➞ ${conteSilabas('de-ploy')}`
+    `'de-ploy' ➞ ${conteSilabas('de-ploy')}`,
+    '                                           ',
+    `"Feito flecha, feito fogo, feito faca." - Grande Sertão: Veredas`
 ]
 
 

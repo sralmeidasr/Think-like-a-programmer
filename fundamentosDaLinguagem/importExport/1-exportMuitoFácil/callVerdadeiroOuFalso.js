@@ -15,7 +15,9 @@ module.exports = [
     `false ➞ ${verdadeiroOuFalso(false)}`,
     `NaN ➞ ${verdadeiroOuFalso(NaN)}`,
     `"" ➞ ${verdadeiroOuFalso('')}`,
-    `0 ➞ ${verdadeiroOuFalso(0)}`
+    `0 ➞ ${verdadeiroOuFalso(0)}`,
+    '                                   ',
+    `"Mestre não é quem sempre ensina, mas quem de repente aprende." - Grande Sertão: Veredas`
 ]
 
 

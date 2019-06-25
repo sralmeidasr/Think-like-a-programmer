@@ -16,7 +16,11 @@ module.exports =  [
     `(null, undefined, null) ➞ ${contandoParametros(null, undefined, null)}`,
     `([], {}, {}, [], function() { return 1 + 2 }) ➞ ${contandoParametros([], {}, {}, [], function() { return 1 + 2 })}`,
     `(function() { return 10 + 57 }, [], true, false, 21) ➞ ${contandoParametros(function() { return 10 + 57 }, [], true, false, 21)}`,
-    `(['banana', 'maça', 'uva'], 'Casa', 1.8, false) ➞ ${contandoParametros(['banana', 'maça', 'uva'], 'Casa', 1.8, false)}`
+    `(['banana', 'maça', 'uva'], 'Casa', 1.8, false) ➞ ${contandoParametros(['banana', 'maça', 'uva'], 'Casa', 1.8, false)}`,
+    '                                                                                   ',
+    `"O correr da vida embrulha tudo, a vida é assim: esquenta e
+    esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que
+    ela quer da gente é coragem." - Grande Sertão: Veredas`
 ]
 
 

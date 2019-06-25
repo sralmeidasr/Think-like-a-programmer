@@ -7,7 +7,10 @@ module.exports = [
     `['hello', 'Mão no Código', 'dot', 'com'] ➞ ${primeiroUltimoArray(['hello', 'Mão no Código', 'dot', 'com'])}`,
     `[3, 2, 1] ➞ ${primeiroUltimoArray([3, 2, 1])}`,
     `['one', 'two'] ➞ ${primeiroUltimoArray(['one', 'two'])}`,
-    `[false, false, true, false, false, true, false] ➞ ${primeiroUltimoArray([false, false, true, false, false, true, false])}`
+    `[false, false, true, false, false, true, false] ➞ ${primeiroUltimoArray([false, false, true, false, false, true, false])}`,
+    '                                                                                                                          ',
+    `"O real não está no início nem no fim, ele se mostra pra gente é
+    no meio da travessia..." - Grande Sertão: Veredas`
 ]
 
 

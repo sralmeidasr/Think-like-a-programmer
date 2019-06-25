@@ -9,7 +9,9 @@ module.exports = [
     `325 ➞ '${converteParaString(325)}'`,
     `17 ➞ '${converteParaString(17)}'`,
     `78964 ➞ '${converteParaString(78964)}'`,
-    `56 ➞ '${converteParaString(56)}'`
+    `56 ➞ '${converteParaString(56)}'`,
+    '                                   ',
+    `"Quem desconfia fica sábio." - Grande Sertão: Veredas`
 ]
 
 
