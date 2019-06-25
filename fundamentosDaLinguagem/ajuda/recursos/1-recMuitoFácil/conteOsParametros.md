@@ -1,20 +1,19 @@
-# Think like a programmer
+# `${Think like a programmer}`
 
-## arguments.length - JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/length/
-- A propriedade arguments.length contém o número de argumentos/parâmetros passados ​​para a função.
+## # arguments.length - JavaScript
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/length/)
+* A propriedade arguments.length contém o número de argumentos/parâmetros passados ​​para a função.
 
-## O objeto arguments - JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/
-- Arguments é um objeto do tipo Array acessível dentro de funções que contém os valores dos argumentos/parâmetros passados ​​para essa função.
+## # O objeto arguments - JavaScript
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/) 
+* Arguments é um objeto do tipo Array acessível dentro de funções que contém os valores dos argumentos/parâmetros passados ​​para essa função.
 
-## Function.length - JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length/
-- A propriedade length indica o número de parâmetros esperados pela função.
+## # Function.length - JavaScript
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/length/)
+* A propriedade length indica o número de parâmetros esperados pela função.
 
+**Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.**
 ```
-OBS: Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.
-
 Se você anda sentindo que não está conseguindo resolver problemas bem simples ainda, veja essas NOTAS: 
 
 1 - Comece por algo mais simples:

@@ -68,3 +68,6 @@ Pull Request com o resultado: showMeTheCode/#Desafios/Netflix-Ionic/@sralmeidasr
 ### # Importante: não há prazo de entrega, faça com qualidade!
 
 # BOA SORTE!
+
+### # Partiu `${Think like a programmer}`
+### # Bora [ Mão no Código ]!

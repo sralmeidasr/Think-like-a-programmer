@@ -1,24 +1,23 @@
-# Think like a programmer
+# `${Think like a programmer}`
 
-## Entendendo o JavaScript Truthy and Falsy
-https://stackoverflow.com/questions/35642809/understanding-javascript-truthy-and-falsy/
-- Alguém por favor pode me explicar em JavaScript o Truthy e Falsy, eu li outros tópicos, mas ainda estou confuso.
+## # Entendendo o JavaScript Truthy and Falsy
+[stackoverflow.com](https://stackoverflow.com/questions/35642809/understanding-javascript-truthy-and-falsy/)
+* Alguém por favor pode me explicar em JavaScript o Truthy e Falsy, eu li outros tópicos, mas ainda estou confuso.
 
-## Truthy and Falsy: Quando tudo não é igual em JavaScript
-https://www.sitepoint.com/javascript-truthy-falsy/
-- Qualquer coisa em JavaScript pode ser considerada truthy ou falsy. Craig analisa quais são esses valores e as regras bizarras que podem ser aplicadas.
+## # Truthy and Falsy: Quando tudo não é igual em JavaScript
+[sitepoint.com](https://www.sitepoint.com/javascript-truthy-falsy/)
+* Qualquer coisa em JavaScript pode ser considerada truthy ou falsy. Craig analisa quais são esses valores e as regras bizarras que podem ser aplicadas.
 
-## Valores Verdadeiros e Falsos em JavaScript
-http://adripofjavascript.com/blog/drips/truthy-and-falsy-values-in-javascript.html/
-- Os desenvolvedores de longa data em JavaScript geralmente usam os termos "truthy" e "falsy", mas para aqueles que são mais novos em JavaScript, esses termos podem ser um pouco confusos.
+## # Valores Verdadeiros e Falsos em JavaScript
+[adripofjavascript.com](http://adripofjavascript.com/blog/drips/truthy-and-falsy-values-in-javascript.html/)
+* Os desenvolvedores de longa data em JavaScript geralmente usam os termos "truthy" e "falsy", mas para aqueles que são mais novos em JavaScript, esses termos podem ser um pouco confusos.
 
-## Uso de Double Bangs (!!) em JavaScript
-https://medium.com/@pddivine/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054/
-- Em Javascript, cada valor possui um valor booleano, verdadeiro ou falso associado. Por exemplo, um valor nulo possui um valor booleano associado a false. Um valor de string, como…
+## # Uso de Double Bangs (!!) em JavaScript
+[medium.com](https://medium.com/@pddivine/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054/)
+* Em Javascript, cada valor possui um valor booleano, verdadeiro ou falso associado. Por exemplo, um valor nulo possui um valor booleano associado a false. Um valor de string, como…
 
+**Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.**
 ```
-OBS: Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.
-
 Se você anda sentindo que não está conseguindo resolver problemas bem simples ainda, veja essas NOTAS: 
 
 1 - Comece por algo mais simples:

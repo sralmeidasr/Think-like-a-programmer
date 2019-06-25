@@ -1,10 +1,9 @@
 /*                                            [ Mão no Código ]
 -----------------------------------------------------------------------------------------------------------------------------
-Developer: Sr&Almeida | GitHub: https://github.com/sralmeidasr | e-mail: alan@sralmeida.com.br | 
+Developer: Sr&Almeida | GitHub: https://github.com/sralmeidasr | e-mail: alan@sralmeida.com.br |  
 ----------------------------------------------------------------------------------------------------------------------------*/
 
-const saudacao = nome => `Olá ${nome}!`
+const menorNumeroString = (n1, n2) => Math.min(n1, n2).toString()
 
 /****************************************************************************************************************************/
-
 

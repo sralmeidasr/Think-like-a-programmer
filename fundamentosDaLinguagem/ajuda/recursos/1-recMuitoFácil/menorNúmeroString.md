@@ -1,20 +1,16 @@
 # `${Think like a programmer}`
 
-## # Métodos sobre números em JavaScript
-[w3schools.com](https://www.w3schools.com/js/js_number_methods.asp/)
-* Mas com JavaScript, métodos e propriedades também estão disponíveis para valores primitivos, porque o JavaScript trata valores primitivos como objetos ao executar métodos e propriedades.
+## # Math.min()
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min/)
+* Retorna o número de menor valor passado para ele, ou NaN, se algum parâmetro não for um número e não puder ser convertido em um.
 
-## # Date.prototype.toString()
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toString/)
-* O método toString() retorna uma string.
+## # Array.prototype.toString()
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toString/)
+* Retorna uma string representando a matriz especificada e seus elementos.
 
-## # Convertendo Strings em Números
-[gomakethings.com](https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/)
-* Três maneiras diferentes de converter uma String em um Número com parseInt(), parseFloat() e Number().
-
-## # Seção de descrição do objeto numérico no MDN
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString#Description/)
-* O método toString() retorna uma string representando o objeto Number especificado.
+## # Number.parseInt()
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/parseInt)
+* Analisa um argumento de string e retorna um inteiro da base ou base especificada.
 
 **Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.**
 ```

@@ -1,20 +1,19 @@
-# Think like a programmer
+# `${Think like a programmer}`
 
-## Funções arrow para iniciantes
-https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc/
-- Last week I published this post on the keyword this for beginners. One of the topics that wasn’t covered in that article was arrow functions.
+## # Funções arrow para iniciantes
+[codeburst.io](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc/)
+* Na semana passada eu publiquei este post sobre essa palavra-chave, isso para iniciantes. Um dos tópicos que não foram abordados nesse artigo foi as funções de seta.
 
-## Template Literals (Template Strings)
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals/
-- Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them.
+## # Template Literals (Template Strings)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals/)
+* Os Template Strings são literais de string que permitem expressões incorporadas. Você pode usar strings de várias linhas e recursos de interpolação de strings com eles.
 
-## String Concatenation in JavaScript
-http://2ality.com/2011/10/string-concatenation.html/
-- There are two ways of doing string concatenation in JavaScript.
+## # String Concatenation in JavaScript
+[2ality.com](http://2ality.com/2011/10/string-concatenation.html/)
+* Existem duas maneiras de fazer a concatenação de strings em JavaScript.
 
+**Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.**
 ```
-OBS: Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.
-
 Se você anda sentindo que não está conseguindo resolver problemas bem simples ainda, veja essas NOTAS: 
 
 1 - Comece por algo mais simples:

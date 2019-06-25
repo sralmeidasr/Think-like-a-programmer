@@ -1,24 +1,23 @@
-# Think like a programmer
+# `${Think like a programmer}`
 
-## Array.length
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length/
-- Retorna o tamanho do array.
+## # Array.length
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length/)
+* Retorna o tamanho do array.
 
-## String.prototype.split ()
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split/
-- Divide um objeto String em um array de strings separando a string em substrings, usando uma string de separação especificada para determinar onde fazer cada divisão.
+## # String.prototype.split ()
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split/)
+* Divide um objeto String em um array de strings separando a string em substrings, usando uma string de separação especificada para determinar onde fazer cada divisão.
 
-## Regex Cheat Sheet
-https://www.rexegg.com/regex-quickstart.html/
-- As tabelas abaixo são uma referência à regex básica. Ao ler o resto do site, quando em dúvida, você pode sempre voltar e olhar aqui. (Você quer um marcador, ela…
+## # Regex Cheat Sheet
+[rexegg.com](https://www.rexegg.com/regex-quickstart.html/)
+* As tabelas abaixo são uma referência à regex básica. Ao ler o resto do site, quando em dúvida, você pode sempre voltar e olhar aqui. (Você quer um marcador, ela…
 
-## Referência Rápida de Expressões Regulares
-https://www.computerhope.com/unix/regex-quickref.htm/
-- Expressões regulares são uma ferramenta poderosa para localizar e substituir texto em um programa ou na linha de comando. Este documento descreve a expressão regular mais comum…
+## # Referência Rápida de Expressões Regulares
+[rexegg.com](https://www.computerhope.com/unix/regex-quickref.htm/)
+* Expressões regulares são uma ferramenta poderosa para localizar e substituir texto em um programa ou na linha de comando. Este documento descreve a expressão regular mais comum…
 
+**Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.**
 ```
-OBS: Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.
-
 Se você anda sentindo que não está conseguindo resolver problemas bem simples ainda, veja essas NOTAS: 
 
 1 - Comece por algo mais simples:
@@ -47,5 +46,5 @@ O segundo: Ele pratica. Esse segundo caso é o mais recorrente e mais certo de s
 Não sei qual é a sua idade, mas conheço pessoas que estão praticando o ato de andar à mais de 30-40 anos e ainda assim tropeçam e as vezes caem. Falhar faz parte e quando caímos, precisamos nos levantar, bater a poeira e tentarmos novamente! Se em algum momento você se frustrar, dê uma pausa, tome um banho, vá dormir, vá jogar videogame, vá ler um livro, vá comer (acho que já deu pra entender hahaha) etc. As vezes a solução aparece na nossa cabeça nesses momentos, onde nos afastamos do quadro para enxergar a pintura por completo! 
 
 
-Bem essas são as poucas porém qualitativas dicas que eu posso te dar! Espero que funcione para você assim como tem funcionado para mim :)
-``` 
+Bem essas são as poucas porém qualitativas dicas que eu posso te dar! Espero que funcione para você assim como tem funcionado para mim :) 
+```

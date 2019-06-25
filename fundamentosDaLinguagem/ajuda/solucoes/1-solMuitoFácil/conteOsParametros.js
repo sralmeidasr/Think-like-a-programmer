@@ -1,6 +1,6 @@
 /*                                             [ Mão no Código ] 
 -----------------------------------------------------------------------------------------------------------------------------
-Developer: Sr&Almeida | GitHub: https://github.com/sralmeidasr | e-mail: alan@sralmeida.com.br | Slack:
+Developer: Sr&Almeida | GitHub: https://github.com/sralmeidasr | e-mail: alan@sralmeida.com.br | 
 ----------------------------------------------------------------------------------------------------------------------------*/
 
 function contandoParametros() {
@@ -9,3 +9,4 @@ function contandoParametros() {
 
 /* 'arguments.length' determina a quantidade de parâmetros declarados na assinatura da função.
 ****************************************************************************************************************************/
+

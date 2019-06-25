@@ -1,16 +1,15 @@
-# Think like a programmer
+# `${Think like a programmer}`
 
-## Array.prototype.concat()
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat/
-- O método concat() é usado para mesclar dois ou mais arrays. Esse método não altera os arrays existentes, em vez disso, retorna um novo array.
+## # Array.prototype.concat()
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat/)
+* O método concat() é usado para mesclar dois ou mais arrays. Esse método não altera os arrays existentes, em vez disso, retorna um novo array.
 
-## Sintaxe de propagação
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax/
-- Spread syntax allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls)...
+## # Sintaxe de propagação
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax/)
+* Spread syntax allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls)...
 
+**Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.**
 ```
-OBS: Caso o inglês for um problema, use o navegador 'Google Chrome' para traduzir o conteúdo da página.
-
 Se você anda sentindo que não está conseguindo resolver problemas bem simples ainda, veja essas NOTAS: 
 
 1 - Comece por algo mais simples:
